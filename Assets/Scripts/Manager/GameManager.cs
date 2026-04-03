@@ -124,7 +124,7 @@ public class GameManager : MonoBehaviour
     }
 
     // ==========================================
-    // ボスHP表示関連（Bossスクリプトから呼び出される）
+    // ボスHP表示関連
     // ==========================================
 
     public void ShowBossHP()
